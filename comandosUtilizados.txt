@@ -1,0 +1,49 @@
+A continuación, se observan los comandos utilizados según el historial (history):
+  498  cd Daniela
+  499  cd Desktop
+  500  ls
+  501  mkdir EXAMEN_INFOR
+  502  cd EXAMEN_INFOR
+  503  mkdir
+  504  20230605-DanielaPonce
+  505  mkdir "20230605-DanielaPonce"
+  506  cd "20230605-DanielaPonce"
+  507  git init
+  508  git remote add origin https://github.com/dponce3110/20230605-DanielaPonce.git
+  509  git remote -v
+  510  touch comandos.txt main.js index.html
+  511  ls
+  512  git status
+  513  git add .
+  514  git commit -m "commit 01 de DanielaPonce"
+  515  git push origin main
+  516  git branch
+  517  git branch feature01
+  518  git checkout feature01
+  519  mkdir Terminal
+  520  cd Terminal
+  521  touch resumen.txt
+  522  cd ..
+  523  mkdir Hardware
+  524  ls
+  525  cd Hardware
+  526  touch resumen.txt
+  527  cd ..
+  528  ls
+  529  git status
+  530  git add .
+  531  git commit -m "commit 02 de DanielaPonce"
+  532  git push origin feature01
+  533  git branch
+  534  git branch feature02
+  535  git checkout feature02
+  536  git status
+  537  git add .
+  538  git commit -m "commit 03 de DanielaPonce"
+  539  git push origin feature02
+  540  git checkout main
+  541  ls
+  542  git mv comandos.txt comandosUtilizados.txt
+  543  ls
+  544  history
+
