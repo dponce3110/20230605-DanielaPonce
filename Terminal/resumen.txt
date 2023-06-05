@@ -1,0 +1,5 @@
+1.cd
+2.mkdir
+3.touch
+4.ls
+5.mv
